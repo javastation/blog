@@ -1,6 +1,6 @@
-# blog
+# mushan
 
-> A Vue.js project
+> A Blog of vue and bootstrap
 
 ## Build Setup
 
